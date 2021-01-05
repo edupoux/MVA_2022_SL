@@ -24,20 +24,28 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### Eight courses 
-The courses take place on monday, from 9am to 12am. _Be on time!_
-Attendance is mandatory.
+The courses take place on monday, from 9am to 12am.
+The entire course will take place remotely. The course content will be
+distributed through at Youtube link and will be available 3 days before. You
+are free to look at it before the set time, or (each last for about 2 hours).
+
 
 - #1 Jan 18, 2020. Introduction (Sagot & Dupoux)
-       - 9:00 am-10:00am: cours (virtuel)
-       - 10:00am-10:30am: on-line QUIZ
-	   - 10:30am-11:00am: Q&A
-- #2 Jan 27, 2020.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
-
-
-- #3 Feb 3, 2020, 9:00am-12:00am (Jaures; 3 hours!).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
-- #4 Feb 10, 2020, 9:00am-11:00am (Jaures).  NLP1: Language processing in the wild (Sagot)
-
-**Attention, deadline for returning TD#1 on Monday Feb 17 at 12am: penalty points for late submission start here**
+     - 9:00 am-11:00am: course materials: 
+     - 10:00am-10:30am: on-line QUIZ:
+	 - 10:30am-11:00am: Q&A:
+- #2 Jan 25, 2020.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+     - 9:00 am-11:00am: course (virtual): 
+     - 10:00am-10:30am: on-line QUIZ:
+	 - 10:30am-11:00am: Q&A:
+- #3 Feb 1, 2020.  ASR2: Language Models (Dupoux, Zeghidour)
+     - 9:00 am-11:00am: course (virtual): 
+     - 10:00am-10:30am: on-line QUIZ:
+	 - 10:30am-11:00am: Q&A:
+- #4 Feb 8, 2020. NLP1: Language processing in the wild (Sagot)
+     - 9:00 am-11:00am: course (virtual): 
+     - 10:00am-10:30am: on-line QUIZ
+	 - 10:30am-11:00am: Q&A
 
 - #5 Feb 17, 2020, 9:00am-11:00am (Jaures).  NLP2: Formal languages (Sagot)
 - #6 Feb 24, 2020,  9:00am-11:30am (Jaures; 2h30!).  NLP3: Parsing (Sagot) + presentation TD#2
