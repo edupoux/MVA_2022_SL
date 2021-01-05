@@ -27,8 +27,13 @@ Basic linear algebra, calculus, probability theory
 The courses take place on monday, from 9am to 12am. _Be on time!_
 Attendance is mandatory.
 
-- #1 Jan 20, 2020,  9:00am-11:00am (Jaures).  Introduction (Sagot & Dupoux)
-- #2 Jan 27, 2020, 9:00am-11:00am (Actes).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+- #1 Jan 18, 2020. Introduction (Sagot & Dupoux)
+       - 9:00 am-10:00am: cours (virtuel)
+       - 10:00am-10:30am: on-line QUIZ
+	   - 10:30am-11:00am: Q&A
+- #2 Jan 27, 2020.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+
+
 - #3 Feb 3, 2020, 9:00am-12:00am (Jaures; 3 hours!).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
 - #4 Feb 10, 2020, 9:00am-11:00am (Jaures).  NLP1: Language processing in the wild (Sagot)
 
