@@ -36,7 +36,7 @@ You must Attention, the following time slot (
      - 11:00am-11:30am: Q&A:
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
