@@ -29,8 +29,8 @@ The courses take place on Monday, from 9am to 12am, remotely.
 A typical course contain three parts.
 - 9:00am-11:00am : watch the course content. It will be
 distributed through at Youtube link a few days before (you can watch it before if you don't have a good connection).
--11:00am- 11:30am: on-line QUIZZ. Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.
--11:30am- 12:00am: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
+- 11:00am- 11:30am: on-line QUIZZ. Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.
+- 11:30am- 12:00am: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
 
 - #1 Jan 18, 2021. Introduction (Sagot & Dupoux) - no QUIZZ
       - 9:00 am-11:00am: course materials:
