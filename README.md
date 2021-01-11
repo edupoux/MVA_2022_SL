@@ -31,51 +31,79 @@ are free to look at it before the set time, or look at it in the set time: from 
 
 You must Attention, the following time slot (
 
-- #1 Jan 18, 2020. Introduction (Sagot & Dupoux)
+- #1 Jan 18, 2021. Introduction (Sagot & Dupoux)
      - 9:00 am-11:00am: course materials: 
-     - 10:00am-10:30am: on-line QUIZ:
-	 - 10:30am-11:00am: Q&A:
-- #2 Jan 25, 2020.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+     - 11:00am-11:30am: Q&A:
+- #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 10:00am-10:30am: on-line QUIZ:
-	 - 10:30am-11:00am: Q&A:
-- #3 Feb 1, 2020.  ASR2: Language Models (Dupoux, Zeghidour)
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+- #3 Feb 1, 2021.  ASR2: Language Models (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 10:00am-10:30am: on-line QUIZ:
-	 - 10:30am-11:00am: Q&A:
-- #4 Feb 8, 2020. NLP1: Language processing in the wild (Sagot)
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+
+** Attention: deadline for project proposal (one page) **
+
+- #4 Feb 8, 2021. ASR3: Advanced ASR (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 10:00am-10:30am: on-line QUIZ
-	 - 10:30am-11:00am: Q&A
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+- #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
+     - 9:00 am-11:00am: course (virtual): 
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+- #6 Feb 22, 2021. NLP2. Language processing in the wild (Sagot)
+     - 9:00 am-11:00am: course (virtual): 
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+- #7 Mar 1, 2021. NLP3. Language processing in the wild (Sagot)
+     - 9:00 am-11:00am: course (virtual): 
+     - 11:00am-11:30am: on-line QUIZ:
+	 - 11:30am-12:00am: Q&A:
+- #8 Mar 8, 2021.  Translation (Schwenk)
+     - 9:00 am-11:00am: course (virtual): 
+	 - 11:00am-11:30am: Q&A
+- #9 Mar 15, 2021. 
+     - 9:00 am-11:00am: course (virtual): 
+	 - 11:00am-11:30am: Q&A
+
 
 
 ## oral presentation of the project
 
 You will prepare a 10 minutes presentation and answer questions for 5 minutes.
 
-Thursday, 24, 2021: first day of  
+- Thursday, 24, 2021: from 9am to 7pm:  first day of oral presentations 
+- Friday, 25, 2021: from 9am to 7pm:  first day of oral presentations 
 
 ## Where:
 
-- (Jaures): Batiment Jaures; sous-sol. Enter through 24 rue Lohmond. (the 29 rue d'Ulm entrance requires an ENS badge)
-- (Actes): 45 rue d'Ulm, Paris 75005
+All the courses will be delivered remotely. 
 
-The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
+The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #9. 
 
 ### Validation
-The validation is continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
+The validation is in two parts:
 
-### Practical assignments (TD)
-The practical assignments are given on the courses #3 and #6. There will be one assignment for the speech part and one for the NLP part. For each assignment, students are provided with the necessary data and Python code, either as a list of requirements to install or in the form of a disk image (.ova) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. Students will have a max of 2 weeks to complete the assignment; assignment will be graded from 0 to 20, with a -1 point removed from the score for each day of being late. Each assignment will count for 40% of the final grade. We may organise special Q&A sessions regarding these assignments from 11am to 12am upon request.
+- on-line QUIZZ (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 11:00am and closed down at 11:30am. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 11:30 and 12:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
 
-### Quizzes
+- Project. You'll be given continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
-During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion. The quizzes will be used (1) to check that you attend the course, (2) that you have read the supporting documents and are following what is being presented. Each quiz will be graded as follows: 0 (no response), 1 (wrong response), 2 (good response). The scores will be averaged and converted from on a 0 to 20 scale. If there are N quizzes, we will use the N-1 best scores for averaging. The overall score will count for 20% of the final grade.    
+Attention, there is 
 
 
 ### Q&A
 
-_What happens if i am ill and cannot attend one course?_
+_What happens if i get less than 10/20 on average? Can I take another exam? _
 
-Presence to the course is mandatory. Each unattended course will give rise to points substracted to the final grade unless they are motivated by an official document, like a medical doctor's statement. This document should be sent to mva.speech.language@gmail.com together with the name and date of missed lesson.
+
+No, there is no possibility of 'rattrapage'; any obtained grade is final.
+
+
+_What happens if i cannot connect to the internet for the on-line QUIZZ on Mondays between 11:00 and 11:30?  _
+
+This is the only part where on-line presence to the course is mandatory; only a low bandwidth connection is necessary, since it is a text-based google form. Of course, if you have a low bandwidth, it is perhaps more prudent to start watching the course before 9am on the monday of the QUIZZ, to avoid missing part of it.
+
+Failure to submit the QUIZZ on time will result in a zero/20 for that QUIZZ, unless you can demonstrate that it was materially impossible for you to connect in that timeframe. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of missed QUIZZ.
 
