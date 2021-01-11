@@ -26,12 +26,22 @@ Basic linear algebra, calculus, probability theory
 ### 9 courses 
 The courses take place on Monday, from 9am to 12am, remotely, between Jan 18 and March 22, 2021.
 
-A typical course contains three parts.
+A typical course contains three parts:
 - 9:00am-11:00am : watch the course content. It will be
 distributed through at Youtube link a few days before (you can watch it before if you don't have a good connection).
-- 11:00am- 11:30am: **on-line QUIZZ**. Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.
+- 11:00am- 11:30am: **on-line QUIZZ**. *Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.*
 - 11:30am- 12:00am: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
 
+
+### Validation
+The validation is in two parts:
+
+- **on-line QUIZZ** (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 11:00am and closed down at 11:30am. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 11:30 and 12:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
+
+- **Project.**  (60% of the total grade). You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run a  experiment testing a new question not tested in the paper. You'll present your plan in a one page document in week #3, and your results in a 4 pages documend and 10 minutes oral presentation + 5 minutes questions in week #10. 
+
+
+ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
 
 ### Schedule and links
@@ -73,14 +83,25 @@ distributed through at Youtube link a few days before (you can watch it before i
      - 9:00 am-11:00am: course (virtual): 
 	 - 11:00am-11:30am: Q&A
 
+- #10 Thursday, 24, 2021
+       - from 9am to 7pm:  first day of oral presentations 
+- #10 Friday, 25, 2021
+	   - from 9am to 7pm:  second day of oral presentations 
 
 
-## oral presentation of the project
+## details for the QUIZZ
 
-You will prepare a 10 minutes presentation and answer questions for 5 minutes.
+The QUIZZ will be composed of comprehension questions regarding the course you've just watched. You will have 30 minutes to complete the Google form which will be activated at 11:00am and closed at 11:30am each week with a quizz session. 
 
-- Thursday, 24, 2021: from 9am to 7pm:  first day of oral presentations 
-- Friday, 25, 2021: from 9am to 7pm:  first day of oral presentations 
+## details for the PROJECT
+You will be given a list of papers to choose from.
+
+Your first task (week #1-#2) is to select a paper of interest, and make up a group of 2-4 people to work on this paper. 
+
+Your second task (week #3) will be to decide on a plan for the experiment you'd like to run and write a 1p document describing what you want to do and who will do what. Attention! any delay in submitting your paper will cost you points (1/24th of a point for each hour of delay after monday noon of week #3.
+
+Your third task will be to conduct the work and prepare (1) a written document (4 p max) describing what you've done and the main results. You may differ from the 1p, but will have to explain how and why. The 4 p should also contain a statement of contribution (who did what), (2) and oral 10 minutes presentation. (there will be 5 minutes of question aferwards).
+
 
 ## Where:
 
@@ -88,14 +109,6 @@ All the courses will be delivered remotely.
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #9. 
 
-### Validation
-The validation is in two parts:
-
-- on-line QUIZZ (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 11:00am and closed down at 11:30am. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 11:30 and 12:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
-
-- Project. You'll be given continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
-
-Attention, there is 
 
 
 ### Q&A
