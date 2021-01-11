@@ -46,9 +46,9 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 ### Schedule and links
 
-- #1 Jan 18, 2021. Introduction (Sagot & Dupoux) - no QUIZZ
-      - 9:00 am-11:00am: course materials:
-     - 11:00am-11:30am: Q&A:
+- #1 Jan 18, 2021. Introduction (Sagot & Dupoux)  *no QUIZZ*
+    - 9:00 am-11:00am: course materials:
+    - 11:00am-11:30am: Q&A:
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
