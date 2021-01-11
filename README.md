@@ -23,12 +23,13 @@ Basic linear algebra, calculus, probability theory
 
 ## Organization
 
-### Eight courses 
+### 9 courses 
 The courses take place on monday, from 9am to 12am.
-The entire course will take place remotely. The course content will be
-distributed through at Youtube link and will be available 3 days before. You
-are free to look at it before the set time, or (each last for about 2 hours).
+The entire course will take place remotely. The course video content will be
+distributed through at Youtube link and which you
+are free to look at it before the set time, or look at it in the set time: from 9am to 11:00am. (each last for about 2 hours).
 
+You must Attention, the following time slot (
 
 - #1 Jan 18, 2020. Introduction (Sagot & Dupoux)
      - 9:00 am-11:00am: course materials: 
@@ -47,17 +48,12 @@ are free to look at it before the set time, or (each last for about 2 hours).
      - 10:00am-10:30am: on-line QUIZ
 	 - 10:30am-11:00am: Q&A
 
-- #5 Feb 17, 2020, 9:00am-11:00am (Jaures).  NLP2: Formal languages (Sagot)
-- #6 Feb 24, 2020,  9:00am-11:30am (Jaures; 2h30!).  NLP3: Parsing (Sagot) + presentation TD#2
 
-**No course on March 1**
+## oral presentation of the project
 
-- #7 Mar 9, 2020, 9:00am-11:00am (Jaures).  Translation (Guest: Schwenk) 
+You will prepare a 10 minutes presentation and answer questions for 5 minutes.
 
-**Attention, deadline for returning TD#2 on Monday Mar 16 at 12am: penalty points for late submission start here**
-
-- #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
-
+Thursday, 24, 2021: first day of  
 
 ## Where:
 
