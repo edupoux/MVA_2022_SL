@@ -24,15 +24,16 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### 9 courses 
-The courses take place on monday, from 9am to 12am.
-The entire course will take place remotely. The course video content will be
-distributed through at Youtube link and which you
-are free to look at it before the set time, or look at it in the set time: from 9am to 11:00am. (each last for about 2 hours).
+The courses take place on Monday, from 9am to 12am, remotely.
 
-You must Attention, the following time slot (
+A typical course contain three parts.
+- 9:00am-11:00am : watch the course content. It will be
+distributed through at Youtube link a few days before (you can watch it before if you don't have a good connection).
+-11:00am- 11:30am: on-line QUIZZ. Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.
+-11:30am- 12:00am: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
 
-- #1 Jan 18, 2021. Introduction (Sagot & Dupoux)
-     - 9:00 am-11:00am: course materials: 
+- #1 Jan 18, 2021. Introduction (Sagot & Dupoux) - no QUIZZ
+      - 9:00 am-11:00am: course materials:
      - 11:00am-11:30am: Q&A:
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
@@ -40,10 +41,10 @@ You must Attention, the following time slot (
 	 - 11:30am-12:00am: Q&A:
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 
-** Attention: deadline for project proposal (one page) **
+**Attention: deadline for project proposal (one page)**
 
 - #4 Feb 8, 2021. ASR3: Advanced ASR (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
