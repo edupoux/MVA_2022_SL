@@ -47,7 +47,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 ### Schedule and links
 
 - #1 Jan 18, 2021. Introduction (Sagot & Dupoux)  *no QUIZZ*
-    - 9:00 am-11:00am: course materials:
+    - 9:00 am-11:00am: course materials: https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
     - 11:00am-11:30am: Q&A:
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
@@ -60,21 +60,21 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 **Attention: deadline for project proposal (one page)**
 
-- #4 Feb 8, 2021. ASR3: Advanced ASR (Dupoux, Zeghidour)
+- #4 Feb 8, 2021. ASR3: End-to-end models (Dupoux, Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #6 Feb 22, 2021. NLP2. Language processing in the wild (Sagot)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #7 Mar 1, 2021. NLP3. Language processing in the wild (Sagot)
      - 9:00 am-11:00am: course (virtual): 
-     - 11:00am-11:30am: on-line QUIZ:
+     - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #8 Mar 8, 2021.  Translation (Schwenk)
      - 9:00 am-11:00am: course (virtual): 
