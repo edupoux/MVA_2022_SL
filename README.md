@@ -47,20 +47,20 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 ### Schedule and links
 
 - #1 Jan 18, 2021. Introduction (Sagot & Dupoux)  *no QUIZZ*
-    - 9:00 am-11:00am: course materials: https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
-    - 11:00am-11:30am: Q&A:
-- #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+    - 9:00 am-11:00am: course materials: https://www.youtube.com/watch?v=wp0Aw11Xmf8&list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
+    - 11:00am-11:30am: Q&A: 
+- #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
-- #3 Feb 1, 2021.  ASR2: Language Models (Dupoux, Zeghidour)
+- #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 
 **Attention: deadline for project proposal (one page)**
 
-- #4 Feb 8, 2021. ASR3: End-to-end models (Dupoux, Zeghidour)
+- #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
@@ -98,7 +98,7 @@ You will be given a list of papers to choose from.
 
 Your first task (week #1-#2) is to select a paper of interest, and make up a group of 2-4 people to work on this paper. 
 
-Your second task (week #3) will be to decide on a plan for the experiment you'd like to run and write a 1p document describing what you want to do and who will do what. Attention! any delay in submitting your paper will cost you points (1/24th of a point for each hour of delay after monday noon of week #3.
+Your second task (week #3) will be to decide on a plan for the experiment you'd like to run and write a 1p document describing what you want to do and who will do what. Attention! any delay in submitting your paper will cost you points (1/24th of a point for each hour of delay after sunday midnight before the monday of week #3).
 
 Your third task will be to conduct the work and prepare (1) a written document (4 p max) describing what you've done and the main results. You may differ from the 1p, but will have to explain how and why. The 4 p should also contain a statement of contribution (who did what), (2) and oral 10 minutes presentation. (there will be 5 minutes of question aferwards).
 
