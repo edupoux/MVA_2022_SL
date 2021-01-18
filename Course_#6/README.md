@@ -1,5 +1,5 @@
 # MVA. Algorithms for speech and natural language processing
-# Parsing
+# Formal Languages
 
 ## Professor
 B. Sagot

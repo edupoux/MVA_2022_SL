@@ -1,5 +1,5 @@
 # MVA. Algorithms for speech and natural language processing
-# Formal Languages
+# Course 4. Language processing in the wild
 
 ## Professor
 B. Sagot

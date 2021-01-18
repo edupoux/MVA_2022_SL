@@ -1,15 +1,11 @@
 # MVA. Algorithms for speech and natural language processing
-# Perspectives
+# Lost in translation
 
 
-## Professors
-E. Dupoux B. Sagot
+
+## Professor
+Schwenk
 
 ## Reading Materials
-
-
-
-
-
 
 
