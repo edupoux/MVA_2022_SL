@@ -57,13 +57,13 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
-
-**Attention: deadline for project proposal (one page)**
-
 - #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
+
+**Attention: deadline for project proposal (one page)**
+
 - #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
@@ -96,9 +96,9 @@ The QUIZZ will be composed of comprehension questions regarding the course you'v
 ## details for the PROJECT
 You will be given a list of papers to choose from.
 
-Your first task (week #1-#2) is to select a paper of interest, and make up a group of 2-4 people to work on this paper. 
+Your first task (week #1-#3) is to select a paper of interest, and make up a group of 2-4 people to work on this paper. 
 
-Your second task (week #3) will be to decide on a plan for the experiment you'd like to run and write a 1p document describing what you want to do and who will do what. Attention! any delay in submitting your paper will cost you points (1/24th of a point for each hour of delay after sunday midnight before the monday of week #3).
+Your second task (week #3) will be to decide on a plan for the experiment you'd like to run and write a 1p document describing what you want to do and who will do what. Attention! any delay in submitting your paper will cost you points (1/24th of a point for each hour of delay after sunday midnight before the monday of week #4).
 
 Your third task will be to conduct the work and prepare (1) a written document (4 p max) describing what you've done and the main results. You may differ from the 1p, but will have to explain how and why. The 4 p should also contain a statement of contribution (who did what), (2) and oral 10 minutes presentation. (there will be 5 minutes of question aferwards).
 
