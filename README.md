@@ -1,6 +1,5 @@
 # NEW!
 
-- Jan 23, 2021: the class will use GoogleClassroom; please register using the following link; the quizzes and course materials will be available from there.
 
 - Jan 23, 2021; the list of possible projectst will be made avaiable Monday 25; 
 
