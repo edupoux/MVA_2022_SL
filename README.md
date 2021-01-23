@@ -1,9 +1,8 @@
 # NEW!
 
-Jan 23, 2021: the class will use GoogleClassroom; please register using the following link; the quizzes and course materials will be available from there.
-https://classroom.google.com/c/MjQ1OTEyNDA4NTU0?cjc=27shpje
+- Jan 23, 2021: the class will use GoogleClassroom; please register using the following link; the quizzes and course materials will be available from there.
 
-Jan 23, 2021; the list of possible projectst will be made avaiable Monday 25; 
+- Jan 23, 2021; the list of possible projectst will be made avaiable Monday 25; 
 
 
 # Algorithms for speech and natural language processing (MVA 2021)
