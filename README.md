@@ -1,8 +1,10 @@
 # NEW!
 
 
-- Jan 23, 2021; the list of possible projectst will be made available Monday 25; 
-
+- Jan 25, 2021; the list of possible projectst is available here:
+https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
+- you can propose your own project by emailing us to  mva.speech.language@gmail.com
+- the deadline for 1-page project proposal has been pushed to FEB 7 midnight. 
 
 # Algorithms for speech and natural language processing (MVA 2021)
 
@@ -65,12 +67,14 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
+
+**Attention: deadline for project proposal (one page: FEB 7, 2021; midnight)**
+
 - #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 
-**Attention: deadline for project proposal (one page)**
 
 - #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
      - 9:00 am-11:00am: course (virtual): 
