@@ -58,7 +58,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
     - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Zeghidour)
      - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/watch?v=O8pXbb_IXig&list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
-     - 11:00am-11:30am: **on-line QUIZ**:
+     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/7WQFcV778vEvEoGp9
 	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
