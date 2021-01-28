@@ -49,6 +49,7 @@ The validation is in two parts:
 
 - **Project.**  (60% of the total grade). You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run a  experiment testing a new question not tested in the paper. You'll present your plan in a one page document in week #3, and your results in a 4 pages documend and 10 minutes oral presentation + 5 minutes questions in week #10. 
 
+the list of possible projects is here: https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
 
 ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
@@ -60,13 +61,13 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
     - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Zeghidour)
      - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/watch?v=O8pXbb_IXig&list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/7WQFcV778vEvEoGp9
+     - 11:00am-11:30am: **on-line QUIZ**: 
 	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
-     - 9:00 am-11:00am: course (virtual): 
+     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/watch?v=85Y7HRuriss&list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
      - 11:00am-11:30am: **on-line QUIZ**:
-	 - 11:30am-12:00am: Q&A:
+	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 **Attention: deadline for project proposal (one page: FEB 7, 2021; midnight)**
 
