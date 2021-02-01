@@ -69,7 +69,13 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/E6cqJtrmeT9JDPt17
 	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-**Attention: deadline for project proposal (one page: FEB 7, 2021; midnight)**
+**Attention: deadline for project proposal (one page: FEB 7, 2021;
+midnight)**
+
+**Submit through email HERE
+  "mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]". One
+  email per group, CC all members of the group. You will receive an
+  acknowledgment within 24 h.**
 
 - #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): 
