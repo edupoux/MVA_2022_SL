@@ -72,8 +72,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 **Attention: deadline for project proposal (one page: FEB 7, 2021;
 midnight)**
 
-**Submit through email HERE
-  "mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]". One
+**Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]). One
   email per group, CC all members of the group. You will receive an
   acknowledgment within 24 h.**
 
