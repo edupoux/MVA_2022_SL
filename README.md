@@ -69,9 +69,8 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
      - 9:00 am-11:00am: course (virtual): https://www.youtube.com/watch?v=U5_cOmGxJr0&list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/E6cqJtrmeT9JDPt17
+     - 11:00am-11:30am: **on-line QUIZ**: 
 	 - 11:30am-12:00am: **BREAK-OUT Corrections** :
-	 https://forms.gle/xiQuKjjwspVhCc1F6 
 	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 **Attention: deadline for project proposal (one page: FEB 7, 2021;
