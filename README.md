@@ -5,7 +5,10 @@
 https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
 - you can propose your own project by emailing us to  mva.speech.language@gmail.com
 - the deadline for 1-page project proposal has been pushed to FEB 7 midnight. 
-
+- you should submit your 1-pager here:
+[mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]](mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]). Please
+use  the email subject [MVA2021-1Page]; only submit once per group
+with CC to all members of the group.
 # Algorithms for speech and natural language processing (MVA 2021)
 
 
