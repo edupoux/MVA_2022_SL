@@ -82,7 +82,7 @@ midnight)**
 
 - #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): https://www.youtube.com/watch?v=btLMkb2w-kI&list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
-     - 11:00am-11:30am: **on-line QUIZ**:
+     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/2YEY2x1YoCxueHAr8
 	 - 11:30am-12:00am: Q&A:  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 
