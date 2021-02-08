@@ -64,12 +64,12 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
     - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
 - #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Zeghidour)
      - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/watch?v=O8pXbb_IXig&list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
-     - 11:00am-11:30am: **on-line QUIZ**: 
+     - 11:00am-11:30am: **on-line QUIZ**
 	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
      - 9:00 am-11:00am: course (virtual): https://www.youtube.com/watch?v=U5_cOmGxJr0&list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
-     - 11:00am-11:30am: **on-line QUIZ**: 
+     - 11:00am-11:30am: **on-line QUIZ**
 	 - 11:30am-12:00am: **BREAK-OUT Corrections** +
 	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
@@ -82,8 +82,10 @@ midnight)**
 
 - #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
      - 9:00 am-11:00am: course (virtual): https://www.youtube.com/watch?v=btLMkb2w-kI&list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/2YEY2x1YoCxueHAr8
-	 - 11:30am-12:00am: Q&A:  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+     - 11:00am-11:30am: **on-line QUIZ** https://forms.gle/2YEY2x1YoCxueHAr8
+	 - 11:30am-12:00am: **BREAKOUT CORRECTIONS**
+	 https://forms.gle/uQ4XnFjbZQ22Ti7m6 +
+	 Q&A:  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 
 - #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
