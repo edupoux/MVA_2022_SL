@@ -89,7 +89,7 @@ midnight)**
 
 
 - #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
-     - 9:00 am-11:00am: course (virtual): 
+     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
      - 11:00am-11:30am: **on-line QUIZ**:
 	 - 11:30am-12:00am: Q&A:
 - #6 Feb 22, 2021. NLP2. Language processing in the wild (Sagot)
