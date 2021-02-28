@@ -104,8 +104,10 @@ midnight)**
 
 - #7 Mar 1, 2021. NLP3. Dependency parsing (Sagot)
      - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
-     - 11:00am-11:30am: **on-line QUIZ**:
-	 - 11:30am-12:00am: Q&A:
+     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/HfnTWLoVzamPvR498
+	 - 11:30am-12:00am:  **BREAKOUT CORRECTIONS**
+	 https://forms.gle/rApdEvVcUSfr3yUT9 +
+	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #8 Mar 8, 2021.  Translation (Schwenk)
      - 9:00 am-11:00am: course (virtual): 
