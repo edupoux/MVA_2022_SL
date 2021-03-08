@@ -1,7 +1,7 @@
 # NEW!
 
-- The Holger Shwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am.  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
-
+- The Holger Shwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am.  https://us02web.zoom.us/j/81410190794
+passwd: W2CCJC
 
 - Jan 25, 2021; the list of possible projectst is available here:
 https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
@@ -112,7 +112,8 @@ midnight)**
 	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #8 Mar 8, 2021.  Translation (Schwenk)
-     - 9:00 am-11:00am: course (virtual, live): Zoom  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+     - 9:00 am-11:00am: course (virtual, live): Zoom  https://us02web.zoom.us/j/81410190794
+passwd: W2CCJC
 	 - 11:00am-11:30am: Q&A
 
 - #9 Mar 15, 2021. 
