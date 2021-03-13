@@ -117,8 +117,8 @@ passwd: W2CCJC
 	 - 11:00am-11:30am: Q&A
 
 - #9 Mar 15, 2021. 
-     - 9:00 am-11:00am: course (virtual): 
-	 - 11:00am-11:30am: Q&A
+     - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
+	 - 11:00am-11:30am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #10 Thursday, 24, 2021
        - from 9am to 7pm:  first day of oral presentations 
