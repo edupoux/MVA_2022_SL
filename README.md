@@ -120,9 +120,9 @@ passwd: W2CCJC
      - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
 	 - 11:00am-11:30am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #10 Thursday, 24, 2021
+- #10 Thursday, 25, 2021
        - from 9am to 7pm:  first day of oral presentations 
-- #10 Friday, 25, 2021
+- #10 Friday, 26, 2021
 	   - from 9am to 7pm:  second day of oral presentations 
 
 
