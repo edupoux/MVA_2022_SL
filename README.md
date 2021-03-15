@@ -1,6 +1,6 @@
 # NEW!
 
-- The Holger Shwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am.  https://us02web.zoom.us/j/81410190794
+- The Holger Schwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am.  https://us02web.zoom.us/j/81410190794
 passwd: W2CCJC
 
 - Jan 25, 2021; the list of possible projectst is available here:
