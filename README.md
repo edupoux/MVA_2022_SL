@@ -1,4 +1,4 @@
-# UPDATE REGARDING PROJECT DEFENCES
+# UPDATE REGARDING PROJECT DEFENSES
 
 Please ignore the Google Meet link in the calendar invite you received for your project defence. Use the following zoom link instead: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
