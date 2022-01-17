@@ -1,21 +1,4 @@
-# UPDATE REGARDING PROJECT DEFENSES
-
-Please ignore the Google Meet link in the calendar invite you received for your project defence. Use the following zoom link instead: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
-
-# NEW!
-
-- The Holger Schwenk course will not be prerecorded but be delivered live on Mar 8, 2021 from 9 to 11am.  https://us02web.zoom.us/j/81410190794
-passwd: W2CCJC
-
-- Jan 25, 2021; the list of possible projectst is available here:
-https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
-- you can propose your own project by emailing us to  mva.speech.language@gmail.com
-- the deadline for 1-page project proposal has been pushed to FEB 7 midnight. 
-- you should submit your 1-pager here:
-[mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]](mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]). Please
-use  the email subject [MVA2021-1Page]; only submit once per group
-with CC to all members of the group.
-# Algorithms for speech and natural language processing (MVA 2021)
+# Algorithms for speech and natural language processing (MVA 2022)
 
 
 ## Contact information
