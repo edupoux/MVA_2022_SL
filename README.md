@@ -1,6 +1,6 @@
 # Algorithms for speech and natural language processing (MVA 2022)
 
-(program not final!)
+
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
@@ -26,11 +26,12 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### 9 courses 
-The courses consist in 9 three-hours blocks; everything will be
+The courses consist in 9 three-hours blocks, followed by an oral
+project presentation on week 10. Everything will be
 remote this year. Each three hours
 block consists in two off-line hours where you watch prerecorded
 materials (available on youtube), and one hour of interactive
-session taking place Friday, from 4pm to 5pm, remotely.
+remote session taking place on Fridays, from 4pm to 5pm (zoom).
 
 The interactive session will have the following structure:
 - 4:00pm- 4:30pm: **on-line QUIZZ**. *Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.*
