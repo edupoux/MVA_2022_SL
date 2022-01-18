@@ -1,5 +1,6 @@
 # Algorithms for speech and natural language processing (MVA 2022)
 
+(program not final!)
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
@@ -25,91 +26,84 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### 9 courses 
-The courses take place on Monday, from 9am to 12am, remotely, between Jan 18 and March 22, 2021.
+The courses consist in 9 three-hours blocks; everything will be
+remote this year. Each three hours
+block consists in two off-line hours where you watch prerecorded
+materials (available on youtube), and one hour of interactive
+session taking place Friday, from 4pm to 5pm, remotely.
 
-A typical course contains three parts:
-- 9:00am-11:00am : watch the course content. It will be
-distributed through at Youtube link a few days before (you can watch it before if you don't have a good connection).
-- 11:00am- 11:30am: **on-line QUIZZ**. *Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.*
-- 11:30am- 12:00am: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
+The interactive session will have the following structure:
+- 4:00pm- 4:30pm: **on-line QUIZZ**. *Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.*
+- 4:30pm- 5:00pm: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
 
 
 ### Validation
 The validation is in two parts:
 
-- **on-line QUIZZ** (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 11:00am and closed down at 11:30am. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 11:30 and 12:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
+- **on-line QUIZZ** (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 4:00pm and closed down at 4:30pm. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 4:30 and 5:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
 
 - **Project.**  (60% of the total grade). You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run a  experiment testing a new question not tested in the paper. You'll present your plan in a one page document in week #3, and your results in a 4 pages documend and 10 minutes oral presentation + 5 minutes questions in week #10. 
 
-the list of possible projects is here: https://docs.google.com/spreadsheets/d/115ZIe9V0Y-bbaf40KHEjRobgTuqPk1-VNEPC88fleKg/edit#gid=0
+the list of possible projects will be made available  here:
+https://docs.google.com/spreadsheets/d/12hI1JfS2S9dKreXwdmdi1DAYx72ANA1KvlWorMMT0zY/edit#gid=0
 
 ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
 
 ### Schedule and links
 
-- #1 Jan 18, 2021. Introduction (Sagot & Dupoux)  *no QUIZZ*
-    - 9:00 am-11:00am: course materials: https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
-    - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
-- #2 Jan 25, 2021.  ASR1: Features and Acoustic Models (Zeghidour)
-     - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
-     - 11:00am-11:30am: **on-line QUIZ**
-	 - 11:30am-12:00am: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #1 Jan 21, 2022. Introduction (Sagot & Dupoux)  *no QUIZZ*
+    - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
+    - 4:00pm-5:00pm: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
+- #2 Jan 28, 2022.  ASR1: Features and Acoustic Models (Zeghidour)
+     - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
+     - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
+	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #3 Feb 1, 2021.  ASR2: Language Models (Dupoux)
-     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
-     - 11:00am-11:30am: **on-line QUIZ**
-	 - 11:30am-12:00am: **BREAK-OUT Corrections** +
-	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #3 Feb 4, 2022.  ASR2: Language Models (Dupoux)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
+     - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
+	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: 
 
-**Attention: deadline for project proposal (one page: FEB 7, 2021;
+**Attention: deadline for project proposal (one page: FEB 10, 2022;
 midnight)**
 
-**Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2021-1Page]). One
+**Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2022-1Page]). One
   email per group, CC all members of the group. You will receive an
   acknowledgment within 24 h.**
 
-- #4 Feb 8, 2021. ASR3: End-to-end models (Zeghidour)
-     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
-     - 11:00am-11:30am: **on-line QUIZ** https://forms.gle/2YEY2x1YoCxueHAr8
-	 - 11:30am-12:00am: **BREAKOUT CORRECTIONS**
-	 https://forms.gle/uQ4XnFjbZQ22Ti7m6 +
-	 Q&A:  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
+     - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: 
 
 
-- #5 Feb 15, 2021. NLP1. Language processing in the wild (Sagot)
-     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/4pXf4WpCJNyXDcFAA
-	 - 11:30am-12:00am: **BREAKOUT CORRECTIONS**
-	 https://forms.gle/57fxpJCLanS2J5E1A +
-	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #5 Feb 18, 2022. NLP1. Language processing in the wild (Sagot,Michel)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
+     - 4:00pm-4:30pm: **on-line QUIZ**: (link:TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #6 Feb 22, 2021. NLP2. Syntax and formal grammars (Sagot)
-     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVm--yX-cj7TeNtbZmD1gCO
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/XupcjwFdwqJssioT9
-	 - 11:30am-12:00am: **BREAKOUT CORRECTIONS**
-	 https://forms.gle/vAzLbidVxSA5JZKJ8 +
-	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #6 Feb 25, 2022. NLP2. Syntax and formal grammars (Sagot,Michel)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVm--yX-cj7TeNtbZmD1gCO
+     - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #7 Mar 1, 2021. NLP3. Dependency parsing (Sagot)
-     - 9:00 am-11:00am: course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
-     - 11:00am-11:30am: **on-line QUIZ**: https://forms.gle/HfnTWLoVzamPvR498
-	 - 11:30am-12:00am:  **BREAKOUT CORRECTIONS**
-	 https://forms.gle/rApdEvVcUSfr3yUT9 +
-	 Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+- #7 Mar 4, 2022. NLP3. Dependency parsing (Sagot,Michel)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
+     - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
+	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
+- #8 Mar 11, 2022.  Translation (Schwenk). **Attention! this course is
+  LIVE (4:00-6:30)**
+     - 4:00 pm-6:00pm: course (virtual, live): Zoom  (link TBA)
+	 - 6:00pm-6:30pm: Q&A
 
-- #8 Mar 8, 2021.  Translation (Schwenk)
-     - 9:00 am-11:00am: course (virtual, live): Zoom  https://us02web.zoom.us/j/81410190794
-passwd: W2CCJC
-	 - 11:00am-11:30am: Q&A
+- #9 Mar 18, 2022. Hot topics in speech and language
+     - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
+	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #9 Mar 15, 2021. 
-     - 9:00 am-11:00am: course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
-	 - 11:00am-11:30am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
-
-- #10 Thursday, 25, 2021
+- #10 Thursday, 24, 2022
        - from 9am to 7pm:  first day of oral presentations 
-- #10 Friday, 26, 2021
+- #10 Friday, 25, 2022
 	   - from 9am to 7pm:  second day of oral presentations 
 
 
