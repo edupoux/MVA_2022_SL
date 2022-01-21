@@ -56,18 +56,18 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #1 Jan 21, 2022. Introduction (Sagot & Dupoux)  *no QUIZZ*
     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
     - 4:00pm-5:00pm: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
+
 - #2 Jan 28, 2022.  ASR1: Features and Acoustic Models (Zeghidour)
      - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #3 Feb 4, 2022.  ASR2: Language Models (Dupoux)
+- #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: 
 
-**Attention: deadline for project proposal (one page: FEB 10, 2022;
-midnight)**
+**Attention: deadline for project proposal (one page: FEB 10, 2022; midnight)**
 
 **Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2022-1Page]). One
   email per group, CC all members of the group. You will receive an
@@ -76,35 +76,34 @@ midnight)**
 - #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
-	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: 
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-
-- #5 Feb 18, 2022. NLP1. Language processing in the wild (Sagot,Michel)
+- #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot,Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
      - 4:00pm-4:30pm: **on-line QUIZ**: (link:TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #6 Feb 25, 2022. NLP2. Syntax and formal grammars (Sagot,Michel)
+- #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot,Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVm--yX-cj7TeNtbZmD1gCO
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #7 Mar 4, 2022. NLP3. Dependency parsing (Sagot,Michel)
+- #7 Mar 4, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
+     - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
+	 - 6:00pm-6:30pm: Q&A
+
+- #8 Mar 11, 2022. NLP4. Advanced topics in NLP (Sagot,Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
-- #8 Mar 11, 2022.  Translation (Schwenk). **Attention! this course is
-  LIVE (4:00-6:30)**
-     - 4:00 pm-6:00pm: course (virtual, live): Zoom  (link TBA)
-	 - 6:00pm-6:30pm: Q&A
 
 - #9 Mar 18, 2022. Hot topics in speech and language
      - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #10 Thursday, 24, 2022
+- #10a Thursday, 24, 2022
        - from 9am to 7pm:  first day of oral presentations 
-- #10 Friday, 25, 2022
+- #10b Friday, 25, 2022
 	   - from 9am to 7pm:  second day of oral presentations 
 
 
