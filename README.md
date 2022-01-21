@@ -79,12 +79,12 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot,Michel)
+- #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
      - 4:00pm-4:30pm: **on-line QUIZ**: (link:TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot,Michel)
+- #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot, Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVm--yX-cj7TeNtbZmD1gCO
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
@@ -93,7 +93,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
 	 - 6:00pm-6:30pm: Q&A
 
-- #8 Mar 11, 2022. NLP4. Advanced topics in NLP (Sagot,Michel)
+- #8 Mar 11, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
@@ -102,9 +102,9 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #10a Thursday, 24, 2022
+- #10a Thursday, Mar 24, 2022
        - from 9am to 7pm:  first day of oral presentations 
-- #10b Friday, 25, 2022
+- #10b Friday, Mar 25, 2022
 	   - from 9am to 7pm:  second day of oral presentations 
 
 
