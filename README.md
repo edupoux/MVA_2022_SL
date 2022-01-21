@@ -1,6 +1,7 @@
 # Algorithms for speech and natural language processing (MVA 2022)
 
-
+## Course Organizers
+Emmanuel Dupoux (EHESS, & Meta), Paul Michel (ENS), Nei Zeghidour (Google Brain), Benoit Sagot (INRIA)
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
