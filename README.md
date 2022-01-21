@@ -55,16 +55,16 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 ### Schedule and links
 
 - #1 Jan 21, 2022. Introduction (Sagot & Dupoux)  *no QUIZZ*
-    - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWYibdQtuIxbI47G8ltkkMV
+    - course (virtual): https://youtube.com/playlist?list=PLoWKS7d8OzpWXyFTleo31YqRQSnnPWRgi
     - 4:00pm-5:00pm: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
 
 - #2 Jan 28, 2022.  ASR1: Features and Acoustic Models (Zeghidour)
-     - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
+     - course (virtual):  (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
-     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
+     - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: 
 
@@ -75,17 +75,17 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   acknowledgment within 24 h.**
 
 - #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
-     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
+     - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
 - #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
-     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU_ARXPbbtVI7PZ7covgVR8
+     - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ**: (link:TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
 - #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot, Michel)
-     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVm--yX-cj7TeNtbZmD1gCO
+     - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
@@ -94,12 +94,12 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 6:00pm-6:30pm: Q&A
 
 - #8 Mar 11, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
-     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVG7bAeWnnU4J3lVdCx2znP
+     - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
 - #9 Mar 18, 2022. Hot topics in speech and language
-     - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
+     - course (virtual):  (link TBA)
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #10a Thursday, Mar 24, 2022
