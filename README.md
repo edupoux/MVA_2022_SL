@@ -75,7 +75,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   acknowledgment within 24 h.**
 
 - #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
-     - course (virtual): (link TBA)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
