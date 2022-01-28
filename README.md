@@ -60,7 +60,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #2 Jan 28, 2022.  ASR1: Features and Acoustic Models (Zeghidour)
      - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
-     - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
+     - 4:00pm-4:30pm: **on-line QUIZ** https://docs.google.com/forms/d/e/1FAIpQLSdhIBwrzn7aEZUV0H_LMYhpdFO4wjP_TtPVHGwiGZl1Y3iJuQ/viewform?usp=sf_link
 	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
