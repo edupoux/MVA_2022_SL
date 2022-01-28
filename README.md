@@ -66,7 +66,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
      - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
-	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: 
+	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 **Attention: deadline for project proposal (one page: FEB 10, 2022; midnight)**
 
