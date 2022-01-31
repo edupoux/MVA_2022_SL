@@ -64,7 +64,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
 
 - #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
-     - course (virtual): (link TBA)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
