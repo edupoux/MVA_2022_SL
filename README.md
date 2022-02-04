@@ -65,19 +65,19 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #3 Feb 4, 2022.  ASR2: Language Models for Speech (Dupoux)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpXLLYxtsdbv9vUkJ_2O_bMv
-     - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
+     - 4:00pm-4:30pm: **on-line QUIZ**  https://forms.gle/bZGK1kwku4P8Gdgs5
 	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
-**Attention: deadline for project proposal (one page: FEB 10, 2022; midnight)**
-
-**Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2022-1Page]). One
-  email per group, CC all members of the group. You will receive an
-  acknowledgment within 24 h.**
 
 - #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
+
+**Attention: deadline for project proposal (one page: FEB 17, 2022; midnight)**
+**Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2022-1Page]). One
+  email per group, CC all members of the group. You will receive an
+  acknowledgment within 24 h.**
 
 - #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
      - course (virtual): (link TBA)
