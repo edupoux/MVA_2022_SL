@@ -49,6 +49,7 @@ The validation is in two parts:
 the list of possible projects will be made available  here:
 https://docs.google.com/spreadsheets/d/12hI1JfS2S9dKreXwdmdi1DAYx72ANA1KvlWorMMT0zY/edit#gid=0
 
+
 ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
 
