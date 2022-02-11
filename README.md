@@ -73,7 +73,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #4 Feb 11, 2022. ASR3: End-to-end models (Zeghidour)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
      - 4:00pm-4:30pm: **on-line QUIZ** (link: TBA)
-	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 **Attention: deadline for project proposal (one page: FEB 17, 2022; midnight)**
 **Submit through email [HERE](mailto:mva.speech.language@gmail.com?subject=[MVA2022-1Page]). One
