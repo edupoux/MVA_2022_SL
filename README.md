@@ -81,7 +81,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   acknowledgment within 24 h.**
 
 - #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
-     - course (virtual): (link TBA)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpW9VAG1TlpdwyJ6euun7YIp
      - 4:00pm-4:30pm: **on-line QUIZ**: (link:TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
