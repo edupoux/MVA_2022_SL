@@ -83,7 +83,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #5 Feb 18, 2022. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpW9VAG1TlpdwyJ6euun7YIp
      - 4:00pm-4:30pm: **on-line QUIZ** https://forms.gle/GG5k44t6No9ZG7W59
-	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: https://cmu.zoom.us/j/96594446576?pwd=MC9URXFHdWYrdW1IUE5tRVJVbjFOdz09
 
 - #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot, Michel)
      - course (virtual): (link TBA)
