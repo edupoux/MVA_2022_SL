@@ -1,8 +1,9 @@
 # MVA. Algorithms for speech and natural language processing
-# Course 4. Language processing in the wild
+# Course 5. NLP basics - Language Models for Text
+
 
 ## Professor
-B. Sagot
+B. Sagot & P. Michel
 
 ## Reading Materials
 
