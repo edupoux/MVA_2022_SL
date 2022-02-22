@@ -86,7 +86,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: https://cmu.zoom.us/j/96594446576?pwd=MC9URXFHdWYrdW1IUE5tRVJVbjFOdz09
 
 - #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot, Michel)
-     - course (virtual): (link TBA)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU21p-WVO-nQ_FOI02Jv2dM
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
