@@ -88,7 +88,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #6 Feb 25, 2022. NLP2. Representation learning for NLP (Sagot, Michel)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU21p-WVO-nQ_FOI02Jv2dM
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: https://forms.gle/y1iSg7w31tyR2yfg8)
-	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
+	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
 - #7 Mar 4, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
      - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
