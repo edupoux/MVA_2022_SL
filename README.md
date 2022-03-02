@@ -2,13 +2,13 @@
 
 ## NEWS
 
-!** Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week.** !
+**!Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week.!** 
 
 
-!** Attention: the course of Holger Scwhenk is interactive. There is no prerecorded video; you have to be present for the entire duration of the course, from 16h to 18h30  (including Q&A) ** !
+**!Attention: the course of Holger Scwhenk is interactive. There is no prerecorded video; you have to be present for the entire duration of the course, from 16h to 18h30  (including Q&A)!** 
 
 
-!** Attention: the oral project presentation dates have been shifted back by two weeks. Instead of march 22 and 24, the dates will be on the following dates: Tuesday April 5 from 9am to 1pm, Wednesday April 6 from 9am to 1pm and Friday 8 from 1:30pm to 6:30 pm ** !
+**!Attention: the oral project presentation dates have been shifted back by two weeks. Instead of march 22 and 24, the dates will be on the following dates: Tuesday April 5 from 9am to 1pm, Wednesday April 6 from 9am to 1pm and Friday 8 from 1:30pm to 6:30 pm!** 
 
 
 
@@ -102,7 +102,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: https://forms.gle/y1iSg7w31tyR2yfg8)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
-** Attention: no course on March 4, 2022.**
+**Attention: no course on March 4, 2022.**
 
 - #7 March 11, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
      - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
