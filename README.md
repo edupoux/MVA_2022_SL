@@ -1,5 +1,17 @@
 # Algorithms for speech and natural language processing (MVA 2022)
 
+## NEWS
+
+!** Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week.** !
+
+
+!** Attention: the course of Holger Scwhenk is interactive. There is no prerecorded video; you have to be present for the entire duration of the course, from 16h to 18h30  (including Q&A) ** !
+
+
+!** Attention: the oral project presentation dates have been shifted back by two weeks. Instead of march 22 and 24, the dates will be on the following dates: Tuesday April 5 from 9am to 1pm, Wednesday April 6 from 9am to 1pm and Friday 8 from 1:30pm to 6:30 pm ** !
+
+
+
 ## Course Organizers
 Emmanuel Dupoux (EHESS, & Meta), Paul Michel (ENS), Nei Zeghidour (Google Brain), Benoit Sagot (INRIA)
 
@@ -90,23 +102,27 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: https://forms.gle/y1iSg7w31tyR2yfg8)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
-- #7 Mar 4, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
+** Attention: no course on March 4, 2022.**
+
+- #7 March 11, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
      - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
 	 - 6:00pm-6:30pm: Q&A
 
-- #8 Mar 11, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
+- #8 March 18, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
      - course (virtual): (link TBA)
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #9 Mar 18, 2022. Hot topics in speech and language
+- #9 March 15, 2022. Hot topics in speech and language
      - course (virtual):  (link TBA)
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
-- #10a Thursday, Mar 24, 2022
-       - from 9am to 7pm:  first day of oral presentations 
-- #10b Friday, Mar 25, 2022
-	   - from 9am to 7pm:  second day of oral presentations 
+- #10a Tuesday, April 5, 2022
+       - from 9am to 1:30pm  --  oral presentations (NLP) 
+- #10b Wednesday, April 6, 2022
+       - from 9am to 1:30pm  --  oral presentations (Speech) 
+- #10c Friday, April 8, 2022
+	   - from 1:30pm to 6:30pm -- oral presentations (Speech and NLP)
 
 
 ## details for the QUIZZ
