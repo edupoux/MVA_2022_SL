@@ -2,7 +2,7 @@
 
 ## NEWS
 
-**!Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week.!** 
+**!Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week!** 
 
 
 **!Attention: the course of Holger Scwhenk is interactive. There is no prerecorded video; you have to be present for the entire duration of the course, from 16h to 18h30  (including Q&A)!** 
