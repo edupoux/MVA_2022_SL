@@ -113,7 +113,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
-- #9 March 15, 2022. Hot topics in speech and language
+- #9 March 25, 2022. Hot topics in speech and language
      - course (virtual):  (link TBA)
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
