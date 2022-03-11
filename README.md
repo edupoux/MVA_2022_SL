@@ -107,7 +107,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 **Attention: no course on March 4, 2022.**
 
 - #7 March 11, 2022. NLP3. Machine Translation (Schwenk). **Attention! this course is LIVE (4:00-6:30)**
-     - 4:00pm-6:00pm: course (virtual, live): Zoom  (link TBA)
+     - 4:00pm-6:00pm: course (virtual, live): Zoom  (link: https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 	 - 6:00pm-6:30pm: Q&A
 
 - #8 March 18, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
