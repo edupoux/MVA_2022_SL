@@ -1,10 +1,10 @@
 # MVA. Algorithms for speech and natural language processing
-# Lost in translation
+# NLP applications and challenges
 
 
 
-## Professor
-Schwenk
+## Professors
+B. Sagot & P. Michel
 
 ## Reading Materials
 
