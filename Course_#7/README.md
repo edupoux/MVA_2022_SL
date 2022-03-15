@@ -1,8 +1,8 @@
 # MVA. Algorithms for speech and natural language processing
-# Parsing
+# Lost in translation
 
 ## Professor
-B. Sagot
+Schwenk
 
 ## Reading Materials
 
