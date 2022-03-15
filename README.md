@@ -111,7 +111,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 6:00pm-6:30pm: Q&A
 
 - #8 March 18, 2022. NLP4. Advanced topics in NLP (Sagot, Michel)
-     - course (virtual): (link TBA)
+     - course (virtual): https://youtube.com/playlist?list=PLoWKS7d8OzpVQ-HthtgmVPeYU7kx6KeDa
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: TBA)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link TBA)
 
