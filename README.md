@@ -2,6 +2,8 @@
 
 ## NEWS
 
+**!Attention: The zoom link for the March 17th office hour is: https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09 **
+
 **!Attention: Paul Michel will be holding office hours to answer questions and give feedback on the projects on March 15th (2-3PM) and March 17th (4-5PM). Register using this google form by Friday March 11th 7PM: https://forms.gle/JMKFQs3xyMsnd5AKA** 
 
 **!Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week!** 
