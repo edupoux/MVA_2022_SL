@@ -118,7 +118,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
 - #9 March 25, 2022. Hot topics in speech and language
-     - course (virtual):  (link TBA)
+     - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
 	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
 
 - #10a Tuesday, April 5, 2022
