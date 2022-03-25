@@ -119,14 +119,15 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #9 March 25, 2022. Hot topics in speech and language
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
-	 - 4:00am-5:00am: Q&A  https://us02web.zoom.us/j/89686335842?pwd=ZjdnYjFmRmlURU1KS1l1WjVLSVVxdz09
+	 - 4:00am-5:00am: Q&A
+ https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 - #10a Tuesday, April 5, 2022
-       - from 9am to 1:30pm  --  oral presentations (NLP) 
+       - from 9am to 1:30pm  --  oral presentations (NLP) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 - #10b Wednesday, April 6, 2022
-       - from 9am to 1:30pm  --  oral presentations (Speech) 
+       - from 9am to 1:30pm  --  oral presentations (Speech) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 - #10c Friday, April 8, 2022
-	   - from 1:30pm to 6:30pm -- oral presentations (Speech and NLP)
+	   - from 1:30pm to 6:30pm -- oral presentations (Speech and NLP) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 
 ## details for the QUIZZ
