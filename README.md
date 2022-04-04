@@ -2,6 +2,8 @@
 
 ## NEWS
 
+**!Attention: the dates for the oral defense of the project have been postponed; the new time slots are listed below** 
+
 **!Attention: The zoom link for the March 31st office hour is: https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09**
 
 **!Attention: Paul Michel will be holding office hours to answer questions and give feedback on the projects on March 15th (2-3PM) and March 17th (4-5PM). Register using this google form by Friday March 11th 7PM: https://forms.gle/JMKFQs3xyMsnd5AKA** 
