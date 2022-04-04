@@ -122,12 +122,17 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 4:00am-5:00am: Q&A
  https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
-- #10a Tuesday, April 5, 2022
-       - from 9am to 1:30pm  --  oral presentations (NLP) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
-- #10b Wednesday, April 6, 2022
-       - from 9am to 1:30pm  --  oral presentations (Speech) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
-- #10c Friday, April 8, 2022
-	   - from 1:30pm to 6:30pm -- oral presentations (Speech and NLP) https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
+
+Due a serious Covid case affecting  one of us, the dates of the oral defense of the projects have been postponed to  the following time slots:
+
+- Wed April 20: 10h, 10h30, 11h, 11h30 (reserved for project 1)
+- Thu April 21: 15h, 15h30, 17h, 17h:30, 18h, 18:30
+- Fri  April 22:  10h, 10:30, 16h, 16h30, 17h, 17h30
+- Thu April 28: 17h, 17h30
+- Fri April 29 : 11h, 11h:30, 16h, 16h30, 17h, 17h30
+https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
+
+
 
 
 ## details for the QUIZZ
