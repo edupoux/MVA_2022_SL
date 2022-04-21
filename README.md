@@ -2,7 +2,7 @@
 
 ## NEWS
 
-**!Attention: the dates for the oral defense of the project have been postponed; the new time slots are listed below** 
+**!Attention: the dates for the oral defense of the project have been postponed; the new time slots are listed below; the report should be sent at least 24h before the date of the oral presentation** 
 
 **!Attention: The zoom link for the March 31st office hour is: https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09**
 
