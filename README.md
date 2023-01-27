@@ -16,6 +16,8 @@
 
 **!Attention: the oral project presentation dates have been shifted back by two weeks. Instead of march 22 and 24, the dates will be on the following dates: Tuesday April 5 from 9am to 1pm, Wednesday April 6 from 9am to 1pm and Friday 8 from 1:30pm to 6:30 pm!** 
 
+**this is the course for the academic year 2021-2022. For the current year (2022-2023), please follow this link:  https://github.com/edupoux/MVA_2023_SL/**
+
 
 
 ## Course Organizers
